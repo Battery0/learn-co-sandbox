@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 Hi! 👋
 
@@ -9,3 +10,8 @@ Saving varies by the type of work you are doing:
 -- *Git repositories that you clone into the Sandbox are NOT automatically saved.* In this case, you are responsible for committing and pushing your work to GitHub. 
 
 To learn more about the Sandbox, please visit http://help.learn.co/technical-support/learn-ide-in-browser/ide-in-browser-sandbox
+=======
+This is my readme file
+New text line
+>>>>>>> 62781828c57f21a41eabc3ae8adb8af11eb6688b
+cd 
